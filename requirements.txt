@@ -1,0 +1,5 @@
+pandas
+seaborn
+nltk
+streamlit
+scikit-learn
